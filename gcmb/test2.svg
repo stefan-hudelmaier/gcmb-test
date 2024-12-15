@@ -7,11 +7,40 @@
    viewBox="0 0 121.66406 97.724503"
    version="1.1"
    id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="test2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.48112397"
+     inkscape:cx="117.43335"
+     inkscape:cy="331.51539"
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs2" />
   <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-17.838437,-14.431345)">
     <g
@@ -60,7 +89,8 @@
        x="73.026146"
        y="29.005289"
        id="text2251"
-       data-id="stefan/test/temperature"><tspan
+       data-id="temperature"><tspan
+         sodipodi:role="line"
          id="tspan2249"
          style="stroke-width:0.264583"
          x="73.026146"
@@ -71,7 +101,8 @@
        x="72.978798"
        y="92.193245"
        id="text2251-6"
-       data-id="stefan/test/humidity"><tspan
+       data-id="humidity"><tspan
+         sodipodi:role="line"
          id="tspan2249-4"
          style="stroke-width:0.264583"
          x="72.978798"

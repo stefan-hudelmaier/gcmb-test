@@ -1,0 +1,4 @@
+<svg viewBox="0 0 500 200">
+  <text data-id="humidity" x="10" y="30" fill="black">Placeholder Humidity!!</text>
+  <text data-id="temperature" x="10" y="60" fill="black">Placeholder Temperature!!</text>
+</svg>
